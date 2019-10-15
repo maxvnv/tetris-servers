@@ -1,10 +1,11 @@
 package com.codenjoy.dojo.tetris.client
 
 /**
-  * Класс, обрабатывающий строковое представление доски в виде JSON.
-  * Содержит ряд унаследованных методов {@see Board},
-  * но ты можешь добавить сюда любые свои методы на их основе.
+  * Class that is responsible for handling board string representation in JSON.
+  * It contains a number of inherited methods from {@see Board},
+  * but you can add any of you own.
   */
+
 class BoardScala extends Board {
-  // твои новые методы
+  // your new methods
 }

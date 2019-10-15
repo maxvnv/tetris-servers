@@ -26,10 +26,7 @@ import com.codenjoy.dojo.client.{AbstractJsonSolver, WebSocketRunner}
 import com.codenjoy.dojo.services.{Dice, RandomDice}
 
 /**
-  * User: your name
-  * Это твой алгоритм AI для игры. Реализуй его на свое усмотрение.
-  * Обрати внимание на {@see ScalaSolverTest} - там приготовлен тестовый
-  * фреймворк для тебя.
+  * This is your algorithm for the game. Implement it in order to win.
   */
 object YourSolverScala {
 
